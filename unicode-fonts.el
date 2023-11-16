@@ -1477,7 +1477,7 @@
     ("Noto Serif Thai"                     :licenses (free))
     ("Noto Serif"                          :licenses (free))
     ("Nuosu SIL"                           :licenses (free))
-    ("NSimSun"                             :licenses (microsoft))
+    ;;("NSimSun"                             :licenses (microsoft))
     ("Nyala"                               :licenses (microsoft))
     ("OCR A Extended"                      :licenses (microsoft))
     ("OCR-B-Digits"                        :licenses (microsoft))
@@ -1566,7 +1566,7 @@
     ("Signs MT"                            :licenses (microsoft))
     ("Silom"                               :licenses (apple))
     ("SimHei"                              :spacing mono :chinese simplified :licenses (microsoft))
-    ("SimSun"                              :spacing mono :chinese simplified :licenses (microsoft apple))
+    ;;("SimSun"                              :spacing mono :chinese simplified :licenses (microsoft apple))
     ("Simplified Arabic"                   :spacing mono :licenses (microsoft) :arabic naskh)
     ("Simplified Arabic Fixed"             :spacing mono :licenses (microsoft) :arabic naskh)
     ("Sinhala MN"                          :licenses (apple))
@@ -2074,7 +2074,7 @@ Set to nil to disable."
                                                          "SimHei"
                                                          "LiSong Pro"                   ; 37/41
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "DFKai-SB"
                                                          "WenQuanYi Zen Hei Mono"       ; 41/41
                                                          "Microsoft JhengHei"
@@ -2092,7 +2092,7 @@ Set to nil to disable."
                                                          "MingLiU"
                                                          "SimHei"
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "DFKai-SB"
                                                          "Microsoft JhengHei"
                                                          "Microsoft JhengHei UI"
@@ -2184,7 +2184,7 @@ Set to nil to disable."
     ("CJK Compatibility"                                (
                                                          "SimHei"
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "MingLiU"
                                                          "Meiryo"                       ; 249/256
                                                          "Microsoft JhengHei"
@@ -2203,7 +2203,7 @@ Set to nil to disable."
                                                          "Lantinghei SC"
                                                          "SimHei"
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "LiSong Pro"                   ; 26/32
                                                          "Baoli SC"                     ; 19/32
                                                          "Microsoft YaHei"
@@ -2222,7 +2222,7 @@ Set to nil to disable."
     ("CJK Compatibility Ideographs"                     (
                                                          "SimHei"
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "Microsoft YaHei"
                                                          "Microsoft YaHei UI"
                                                          "WenQuanYi Zen Hei Mono"       ; 455/472
@@ -2240,7 +2240,7 @@ Set to nil to disable."
                                                          "WenQuanYi Zen Hei Mono"       ; 542/542
                                                          "SimHei"
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "MingLiU"
                                                          "HanaMinA"                     ; 542/542
                                                          "Hiragino Kaku Gothic Pro"
@@ -2255,7 +2255,7 @@ Set to nil to disable."
                                                          "WenQuanYi Zen Hei Mono"       ; 115/115
                                                          "SimHei"
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "Microsoft YaHei"
                                                          "Microsoft YaHei UI"
                                                          "HanaMinA"                     ; 115/115
@@ -2278,7 +2278,7 @@ Set to nil to disable."
                                                          "Lantinghei SC"
                                                          "SimHei"
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "HanaMinA"                     ; 58/64
                                                          "WenQuanYi Zen Hei Mono"       ; 38/64
                                                          "LiSong Pro"                   ; 33/64
@@ -2301,7 +2301,7 @@ Set to nil to disable."
                                                          "SimHei"
                                                          "FangSong"
                                                          "STFangsong"                   ; 20,910/20,950
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "LiSong Pro"                   ; 17,595/20,950
                                                          "Baoli SC"                     ;  7,103/20,950
                                                          "HanaMinA"                     ; 20,945/20,950
@@ -2322,7 +2322,7 @@ Set to nil to disable."
                                                          "SimHei"
                                                          "FangSong"
                                                          "STFangsong"                   ; 6,582/6,582
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "Songti SC"                    ; 6,582/6,582
                                                          "Microsoft YaHei"
                                                          "Microsoft YaHei UI"
@@ -2339,7 +2339,7 @@ Set to nil to disable."
     ("CJK Unified Ideographs Extension B"               (
                                                          "SimHei"
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "LiSong Pro"                   ;  1,640/42,711
                                                          "Microsoft YaHei"
                                                          "Microsoft YaHei UI"
@@ -2954,7 +2954,7 @@ Set to nil to disable."
     ("Ideographic Description Characters"               (
                                                          "SimHei"
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "Microsoft YaHei"
                                                          "Microsoft YaHei UI"
                                                          "BabelStone Han"               ; 12/12
@@ -3023,7 +3023,7 @@ Set to nil to disable."
     ("Kanbun"                                           (
                                                          "SimHei"
                                                          "FangSong"
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "Meiryo"
                                                          ;; "Aqua Kana"
                                                          "Arial Unicode MS"
@@ -3042,7 +3042,7 @@ Set to nil to disable."
                                                          "SimHei"
                                                          "FangSong"
                                                          "Meiryo"                       ; 214/214
-                                                         "SimSun"
+                                                         ;;"SimSun"
                                                          "Microsoft YaHei"
                                                          "Microsoft YaHei UI"
                                                          "BabelStone Han"               ; 214/214
