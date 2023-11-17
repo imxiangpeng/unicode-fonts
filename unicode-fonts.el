@@ -1114,7 +1114,7 @@
     ("Everson Mono"                        :spacing mono :licenses (commercial))
     ("Ezra SIL"                            :licenses (free))
     ("Ezra SIL SR"                         :licenses (free))
-    ("FangSong"                            :spacing mono :chinese simplified :licenses (microsoft))
+    ;;("FangSong"                            :spacing mono :chinese simplified :licenses (microsoft))
     ("Farsi Simple Bold"                   :licenses (microsoft) :arabic farsi)
     ("Felix Titling"                       :licenses (microsoft))
     ("Fine Hand"                           :licenses (microsoft))
@@ -2073,7 +2073,7 @@ Set to nil to disable."
                                                          "MingLiU"
                                                          "SimHei"
                                                          "LiSong Pro"                   ; 37/41
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "DFKai-SB"
                                                          "WenQuanYi Zen Hei Mono"       ; 41/41
@@ -2091,7 +2091,7 @@ Set to nil to disable."
     ("Bopomofo Extended"                                (
                                                          "MingLiU"
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "DFKai-SB"
                                                          "Microsoft JhengHei"
@@ -2183,7 +2183,7 @@ Set to nil to disable."
                                                          ))
     ("CJK Compatibility"                                (
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "MingLiU"
                                                          "Meiryo"                       ; 249/256
@@ -2202,7 +2202,7 @@ Set to nil to disable."
                                                          "WenQuanYi Zen Hei Mono"       ; 32/32
                                                          "Lantinghei SC"
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "LiSong Pro"                   ; 26/32
                                                          "Baoli SC"                     ; 19/32
@@ -2221,7 +2221,7 @@ Set to nil to disable."
                                                          ))
     ("CJK Compatibility Ideographs"                     (
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "Microsoft YaHei"
                                                          "Microsoft YaHei UI"
@@ -2239,7 +2239,7 @@ Set to nil to disable."
     ("CJK Compatibility Ideographs Supplement"          (
                                                          "WenQuanYi Zen Hei Mono"       ; 542/542
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "MingLiU"
                                                          "HanaMinA"                     ; 542/542
@@ -2254,7 +2254,7 @@ Set to nil to disable."
     ("CJK Radicals Supplement"                          (
                                                          "WenQuanYi Zen Hei Mono"       ; 115/115
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "Microsoft YaHei"
                                                          "Microsoft YaHei UI"
@@ -2277,7 +2277,7 @@ Set to nil to disable."
     ("CJK Symbols and Punctuation"                      (
                                                          "Lantinghei SC"
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "HanaMinA"                     ; 58/64
                                                          "WenQuanYi Zen Hei Mono"       ; 38/64
@@ -2299,7 +2299,7 @@ Set to nil to disable."
                                                          "Lantinghei SC"
                                                          "Songti SC"                    ; 20,921/20,950
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          "STFangsong"                   ; 20,910/20,950
                                                          ;;"SimSun"
                                                          "LiSong Pro"                   ; 17,595/20,950
@@ -2320,7 +2320,7 @@ Set to nil to disable."
                                                          ))
     ("CJK Unified Ideographs Extension A"               (
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          "STFangsong"                   ; 6,582/6,582
                                                          ;;"SimSun"
                                                          "Songti SC"                    ; 6,582/6,582
@@ -2338,7 +2338,7 @@ Set to nil to disable."
                                                          ))
     ("CJK Unified Ideographs Extension B"               (
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "LiSong Pro"                   ;  1,640/42,711
                                                          "Microsoft YaHei"
@@ -2637,7 +2637,7 @@ Set to nil to disable."
     ("Enclosed CJK Letters and Months"                  (
                                                          "WenQuanYi Zen Hei Mono"       ; 202/254
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          "MingLiU"
                                                          ;; "Aqua Kana"
                                                          "Arial Unicode MS"
@@ -2953,7 +2953,7 @@ Set to nil to disable."
                                                          ))
     ("Ideographic Description Characters"               (
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "Microsoft YaHei"
                                                          "Microsoft YaHei UI"
@@ -3022,7 +3022,7 @@ Set to nil to disable."
                                                          ))
     ("Kanbun"                                           (
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          ;;"SimSun"
                                                          "Meiryo"
                                                          ;; "Aqua Kana"
@@ -3040,7 +3040,7 @@ Set to nil to disable."
     ("Kangxi Radicals"                                  (
                                                          "WenQuanYi Zen Hei Mono"       ; 214/214
                                                          "SimHei"
-                                                         "FangSong"
+                                                         ;;"FangSong"
                                                          "Meiryo"                       ; 214/214
                                                          ;;"SimSun"
                                                          "Microsoft YaHei"
